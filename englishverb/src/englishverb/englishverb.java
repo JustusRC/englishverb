@@ -1,5 +1,3 @@
-package englishverb;
-
 import java.util.Scanner;
 
 public class englishverb {
@@ -121,23 +119,3 @@ public class englishverb {
               return sentence;
 			}  
 }
-			  
-
-		     
-		  
-		  
-		  
-			  
-	
-	
-			  
-			 
-			  
-		
-		
-
-		
-		
-		
-		
-	
